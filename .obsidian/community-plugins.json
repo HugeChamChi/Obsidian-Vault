@@ -1,7 +1,6 @@
 [
-  "calendar",
-  "editing-toolbar",
-  "periodic-notes",
   "css-editor",
+  "editing-toolbar",
+  "obsidian-git",
   "obsidian-style-settings"
 ]
