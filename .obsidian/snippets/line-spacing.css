@@ -1,7 +1,0 @@
-.markdown-source-view.mod-cm6 .cm-line,
-.markdown-preview-view p {
-    line-height: 200% !important;
-}
-.markdown-source-view :is(.cm-line + .cm-line) {
-    padding-top: 0.5em !important;
-}
