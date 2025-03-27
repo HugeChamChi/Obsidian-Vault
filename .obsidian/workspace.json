@@ -11,12 +11,24 @@
             "id": "53fa0f89f9a07b50",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "E__Unity_SmartTraining_GitStudy_ConsoleApp1_ConsoleApp1_bin_Debug_ConsoleApp1.exe 2025-03-22 09-40-14.mp4"
+                "file": "TIL Extensions/💡FollowUp_Ideas/FF14 의 에오르지아 시간체계.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "E__Unity_SmartTraining_GitStudy_ConsoleApp1_ConsoleApp1_bin_Debug_ConsoleApp1.exe 2025-03-22 09-40-14"
+              "title": "FF14 의 에오르지아 시간체계"
             }
           }
         ],
@@ -57,7 +69,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           },
           {
@@ -187,13 +199,19 @@
   },
   "active": "53fa0f89f9a07b50",
   "lastOpenFiles": [
-    "KakaoTalk_20250312_053301746 (1).gif",
-    "E__Unity_SmartTraining_GitStudy_ConsoleApp1_ConsoleApp1_bin_Debug_ConsoleApp1.exe 2025-03-22 09-40-14.mp4",
-    "참조.md",
+    "TIL Extensions/💡FollowUp_Ideas/Replace 를 사용한 필터링..md",
+    "TIL Extensions/💡FollowUp_Ideas/FF14 의 에오르지아 시간체계.md",
+    "📖TIL/2025.03/25.03.27.md",
+    "Pasted image 20250328061532.png",
+    "📖TIL/2025.03/25.03.11.md",
     "📖TIL/2025.03/25.03.26.md",
     "📖TIL/2025.03/25.03.25.md",
-    "📖TIL/2025.03/25.03.27.md",
+    "📖TIL/2025.03/25.03.21.md",
+    "📖TIL/2025.03/25.03.19.md",
     "📖TIL/2025.03/25.03.24.md",
+    "E__Unity_SmartTraining_GitStudy_ConsoleApp1_ConsoleApp1_bin_Debug_ConsoleApp1.exe 2025-03-22 09-40-14.mp4",
+    "KakaoTalk_20250312_053301746 (1).gif",
+    "참조.md",
     "📖TIL/2025.03/25.03.23.md",
     "CS 지식/기초/박싱(Boxing)과 언박싱(Unboxing).md",
     "CS 지식/구문/ArrayList.md",
@@ -203,8 +221,6 @@
     "Z.Images/sd 1.jpg",
     "Z.Images/sd.jpg",
     "Z.Images/Pasted image 20250326044611.png",
-    "📖TIL/2025.03/25.03.19.md",
-    "📖TIL/2025.03/25.03.21.md",
     "📖TIL/2025.03/25.03.20.md",
     "📖TIL/2025.03/25.03.18.md",
     "📖TIL/2025.03/25.03.15.md",
@@ -222,10 +238,6 @@
     "Z.Images/Pasted image 20250319073847.png",
     "Z.Images/Microsoft Visual Studio 디버그 콘솔 2025-03-19 07-06-30.mp4",
     "Z.Images/Pasted image 20250319063304.png",
-    "Programmers Coding-Test/입문/120922 - 종이 자르기.md",
-    "Z.Images/Pasted image 20250317161209.png",
-    "Programmers Coding-Test/기초/181936 - 공배수.md",
-    "Programmers Coding-Test/입문/--------공사중--------.md",
     "Z.Images",
     "eaugyudg.1w0~",
     "Test-costom.css",
