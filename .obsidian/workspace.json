@@ -11,24 +11,12 @@
             "id": "53fa0f89f9a07b50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "video",
               "state": {
-                "file": "📖TIL/2025.03/25.03.26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "E__Unity_SmartTraining_GitStudy_ConsoleApp1_ConsoleApp1_bin_Debug_ConsoleApp1.exe 2025-03-22 09-40-14.mp4"
               },
               "icon": "lucide-file",
-              "title": "25.03.26"
+              "title": "E__Unity_SmartTraining_GitStudy_ConsoleApp1_ConsoleApp1_bin_Debug_ConsoleApp1.exe 2025-03-22 09-40-14"
             }
           }
         ],
@@ -197,59 +185,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "73cdf37690e207f4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6ea646cb7562ad04",
-        "type": "window",
-        "children": [
-          {
-            "id": "dda6d2b4eb371d5f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "068ca3a2739bfca2",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/huge-chamchi/%F0%9F%93%96TIL/2025.03/25.03.26",
-                    "title": "25.03.26 - HugeChamChi - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "25.03.26 - HugeChamChi - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 351,
-        "y": 74,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "53fa0f89f9a07b50",
   "lastOpenFiles": [
+    "KakaoTalk_20250312_053301746 (1).gif",
+    "E__Unity_SmartTraining_GitStudy_ConsoleApp1_ConsoleApp1_bin_Debug_ConsoleApp1.exe 2025-03-22 09-40-14.mp4",
+    "참조.md",
+    "📖TIL/2025.03/25.03.26.md",
     "📖TIL/2025.03/25.03.25.md",
     "📖TIL/2025.03/25.03.27.md",
-    "📖TIL/2025.03/25.03.26.md",
     "📖TIL/2025.03/25.03.24.md",
     "📖TIL/2025.03/25.03.23.md",
     "CS 지식/기초/박싱(Boxing)과 언박싱(Unboxing).md",
     "CS 지식/구문/ArrayList.md",
     "CS 지식/구문",
     "TIL Extensions/Project/미로 찾기 게임.md",
-    "참조.md",
-    "E__Unity_SmartTraining_GitStudy_ConsoleApp1_ConsoleApp1_bin_Debug_ConsoleApp1.exe 2025-03-22 09-40-14.mp4",
-    "KakaoTalk_20250312_053301746 (1).gif",
     "README.md",
     "Z.Images/sd 1.jpg",
     "Z.Images/sd.jpg",
@@ -277,7 +226,6 @@
     "Z.Images/Pasted image 20250317161209.png",
     "Programmers Coding-Test/기초/181936 - 공배수.md",
     "Programmers Coding-Test/입문/--------공사중--------.md",
-    "Programmers Coding-Test/입문/120910 - 세균 증식.md",
     "Z.Images",
     "eaugyudg.1w0~",
     "Test-costom.css",
