@@ -1,0 +1,134 @@
+﻿
+:root {
+    /* 다크 테마 설정 (ctp-mocha-old) */
+    --ctp-rosewater: 245, 224, 220;
+    --ctp-flamingo: 242, 205, 205;
+    --ctp-pink: 245, 194, 231;
+    --ctp-mauve: 203, 166, 247;
+    --ctp-red: 243, 139, 168;
+    --ctp-maroon: 235, 160, 172;
+    --ctp-peach: 250, 179, 135;
+    --ctp-yellow: 249, 226, 175;
+    --ctp-green: 166, 227, 161;
+    --ctp-teal: 148, 226, 213;
+    --ctp-sky: 137, 220, 235;
+    --ctp-sapphire: 116, 199, 236;
+    --ctp-blue: 135, 176, 249;
+    --ctp-lavender: 180, 190, 254;
+    --ctp-text: 217, 224, 238;
+    --ctp-subtext1: 211, 205, 214;
+    --ctp-subtext0: 190, 179, 193;
+    --ctp-overlay2: 167, 156, 176;
+    --ctp-overlay1: 152, 139, 162;
+    --ctp-overlay0: 109, 107, 125;
+    --ctp-surface2: 87, 82, 105;
+    --ctp-surface1: 45, 40, 72;
+    --ctp-surface0: 48, 45, 65;
+    --ctp-base: 30, 30, 46;
+    --ctp-mantle: 26, 24, 38;
+    --ctp-crust: 22, 19, 32;
+}
+
+/* 액센트 색상 적용 (마룬) */
+.theme-dark {
+    --color-accent: rgb(235, 160, 172);
+    --color-accent-1: rgb(235, 160, 172);
+    --color-accent-2: rgba(235, 160, 172, 0.9);
+    --text-selection: rgba(235, 160, 172, 0.25);
+    --interactive-accent: rgb(235, 160, 172);
+    --interactive-accent-hover: rgba(235, 160, 172, 0.9);
+    --text-accent: rgb(235, 160, 172);
+    --text-accent-hover: rgb(235, 160, 172);
+    --text-highlight-bg: rgba(235, 160, 172, 0.4);
+    --text-highlight-bg-active: rgba(235, 160, 172, 0.6);
+    --interactive-accent-rgb: 235, 160, 172;
+    --blockquote-border-color: rgb(235, 160, 172);
+    --background-modifier-active: rgba(235, 160, 172, 0.1);
+    --background-modifier-active-hover: rgba(235, 160, 172, 0.15);
+    --link-unresolved-decoration-color: rgba(235, 160, 172, 0.3);
+    --tag-background: rgba(235, 160, 172, 0.1);
+    --tag-background-hover: rgba(235, 160, 172, 0.2);
+    --tag-border-color: rgba(235, 160, 172, 0.15);
+    --tag-border-color-hover: rgba(235, 160, 172, 0.15);
+    --nav-item-background-selected: rgba(235, 160, 172, 0.2);
+    --heading-formatting: rgb(235, 160, 172);
+    --icon-color-focused: rgb(235, 160, 172);
+}
+
+/* 테두리 레이아웃 (anp-border-layout) */
+.workspace-split {
+    border-radius: 16px;
+    padding: 20px;
+}
+
+/* 레이아웃 설정 (border-layout) */
+.theme-dark .workspace {
+    --tab-outline-color: rgba(48, 45, 65, 0.5);
+    --card-background-color: rgb(22, 19, 32);
+    --card-foreground-color: rgb(30, 30, 46);
+}
+
+/* 기타 설정 */
+.callout {
+    border-radius: 4px;
+}
+
+table {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgba(87, 82, 105, 0.3);
+    text-align: left;
+}
+
+tr:nth-child(odd) td {
+    background-color: rgba(48, 45, 65, 0.3);
+}
+.math.math-inline {
+    <code style="color: #F5A277;">true</code>
+}
+.markdown-source-view :is(.cm-line + .cm-line) {
+    padding-top: 0.5em !important;
+}
+.markdown-source-view.mod-cm6 .cm-line,
+.markdown-preview-view p {
+    line-height: 200% !important;
+}
+
+.inkfree {
+    font-family: 'Ink Free';
+}
+.cascadia {
+    font-family: 'Cascadia Code'
+}
+
+
+/* 폰트를 적용할 요소 선택 */
+.Regular {
+    font-family: 'RixYeoljeongdo_Regular', sans-serif;
+}
+@font-face {
+    font-family: 'RixYeoljeongdo_Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2102-01@1.0/RixYeoljeongdo_Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 사이드바 텍스트 폰트 적용 */
+.tree-item-inner {
+    font-family: 'RixYeoljeongdo_Regular', sans-serif !important;
+    font-size: 16px; /* 필요하면 크기 조정 */
+    color: #D7B4F3; /* 필요하면 색상 설정 */
+}
+a.site-body-left-column-site-name {
+    font-family: 'RixYeoljeongdo_Regular', sans-serif !important; /* 폰트 적용 */
+    font-size: 22px; /* 기존 크기 유지 */
+    
+}
+.outline-view-outer .tree-item-inner {
+    font-family: inherit !important; /* 기본 폰트로 복원 */
+    color: inherit !important; /* 기본 색상으로 복원 */
+}
