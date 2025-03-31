@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖TIL/2025.03/25.03.30.md",
+                "file": "📖TIL/2025.03/25.03.31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "25.03.30"
+              "title": "25.03.31"
             }
           }
         ],
@@ -197,24 +197,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c50d054798bbc8a",
+  "active": "53fa0f89f9a07b50",
   "lastOpenFiles": [
-    "📖TIL/2025.03/25.03.29.md",
+    "참조.md",
+    "📖TIL/2025.03/25.03.31.md",
+    "Pasted image 20250401061810.png",
+    "download.csv",
+    "TIL Extensions/Algorithm",
+    "CS 지식/기초/무제",
+    "Pasted image 20250401044231.png",
     "📖TIL/2025.03/25.03.30.md",
+    "📖TIL/2025.03/25.03.27.md",
+    "Pasted image 20250331090257.png",
+    "Pasted image 20250331085709.png",
+    "📖TIL/2025.03/25.03.28.md",
+    "📖TIL/2025.03/25.03.29.md",
+    "📖TIL/2025.03/25.03.26.md",
     "TIL Extensions/💡FollowUp_Ideas/FF14 의 에오르지아 시간체계.md",
     "TIL Extensions/💡FollowUp_Ideas/Replace 를 사용한 필터링..md",
     "무제.md",
-    "참조.md",
     "README.md",
     "Pasted image 20250330054130.png",
     "Pasted image 20250330052611.png",
     "CS 지식/기초/메모리 공간의 4가지.md",
-    "📖TIL/2025.03/25.03.28.md",
     "📖TIL/2025.03/25.03.23.md",
     "📖TIL/2025.03/25.03.24.md",
     "📖TIL/2025.03/25.03.25.md",
-    "📖TIL/2025.03/25.03.26.md",
-    "📖TIL/2025.03/25.03.27.md",
     "CS 지식/구문/ArrayList.md",
     "CS 지식/기초/박싱(Boxing)과 언박싱(Unboxing).md",
     "Z.Images/E__Unity_SmartTraining_GitStudy_ConsoleApp1_ConsoleApp1_bin_Debug_ConsoleApp1.exe 2025-03-22 09-40-14 1.mp4",
@@ -227,24 +235,15 @@
     "TIL Extensions/Project/미로 찾기 게임.md",
     "Z.Images/sd 1.jpg",
     "Z.Images/sd.jpg",
-    "Z.Images/Pasted image 20250326044611.png",
     "📖TIL/2025.03/25.03.20.md",
     "📖TIL/2025.03/25.03.18.md",
     "📖TIL/2025.03/25.03.15.md",
     "📖TIL/2025.03/25.03.16.md",
-    "📖TIL/2025.03/25.03.13.md",
-    "📖TIL/2025.03/25.03.14.md",
-    "Z.Images/Pasted image 20250320065719.png",
-    "Z.Images/Pasted image 20250320065620.png",
     "Z.Images/애니메이션효과.mp4",
-    "Z.Images/Pasted image 20250319073934.png",
     "Z.Images/Microsoft Visual Studio 디버그 콘솔 2025-03-19 07-06-30.mp4",
     "Z.Images",
     "eaugyudg.1w0~",
     "Test-costom.css",
-    "Programmers Coding-Test/기초",
-    "Programmers Coding-Test/입문",
-    "TIL Extensions/💡FollowUp_Ideas",
     "무제.canvas"
   ]
 }
